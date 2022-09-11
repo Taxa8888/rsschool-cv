@@ -1,7 +1,7 @@
 1. #### Full Name  
 * Pavel Ponamarev  
 2. #### Contacts  
-* [E-mail]: "Taxa8888@bk.ru" 
+* E-mail: "Taxa8888@bk.ru" 
 * Telegtam: @PaulPonama  
 3. #### About  
 * The main goal is change my usual life. I have been working for EPAM Systems since 2013 on position System Administrator.  
@@ -11,11 +11,13 @@ From time to time i try to learn different courses like: DevOps, Python, etc.
 * *Html, CSS, JavaScript, React, Docker, Git, Linux/Ubuntu, Windows.*  
 5. #### Code  
 * *Regexp Basics - is it a letter?*  
-    String.prototype.isLetter = function() {  
+  
+  String.prototype.isLetter = function() {  
         if ((/[A-Za-z]/).test(this) && this.length === 1) {  
             return true;  
             } return false;  
         }  
+
 6. #### Experience  
 * None. I haven't public experience.  
 7. #### Education  
