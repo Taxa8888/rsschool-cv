@@ -11,11 +11,13 @@ From time to time i try to learn different courses like: DevOps, Python, etc.
 * *Html, CSS, JavaScript, React, Docker, Git, Linux/Ubuntu, Windows.*  
 5. #### Code  
 * *Regexp Basics - is it a letter?*  
+                ```
                  String.prototype.isLetter = function() {  
                     if ((/[A-Za-z]/).test(this) && this.length === 1) {  
                         return true;  
                         } return false;  
                     }
+                ```
 6. #### Experience  
 * None. I haven't public experience.  
 7. #### Education  
